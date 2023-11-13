@@ -1,3 +1,4 @@
+# this is also a part of software which automatically sends email to the provided reciever
 import smtplib
 import os
 from email.mime.multipart import MIMEMultipart
