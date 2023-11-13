@@ -1,3 +1,7 @@
+#this is the code for the frontend of the software which is used to analysis the news from the news portals 
+#then after analyzing classifies them into positive , negative and neutral news
+#this frontend contains add urls, delete urls, load, edit, view
+#yet this is not final code update and changes are being done and uploaded soon 
 import json
 import tkinter as tk
 import threading
